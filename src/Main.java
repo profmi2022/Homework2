@@ -49,7 +49,7 @@ public class Main {
 
         numberOfStaff = numberOfStaff + 94;
         totalTime = numberOfStaff * 8;
-        System.out.println("Если в компании работает " + numberOfStaff + " человек, то всего " + totalTime + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + numberOfStaff + " человек, то всего " + totalTime + " часа работы может быть поделено между сотрудниками");
 
 
 
